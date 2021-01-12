@@ -15,6 +15,7 @@
 - Satyam Kumar (https://)github.com/satyamkumar2302)
 - [Ferran Sulaiman] (https://github.com/ferran9908)
 - [Ashikur Rashid Khan] (https://github.com/ARK17)
+- Rohit Retnakaran (https://github.com/rohit16794)
 -peterson oaikhenah (https://github.com/nextwebb)
 - Kyle B
 - Ritu S
